@@ -1,14 +1,14 @@
 {
-  "name": "infinity-crud",
+  "name": "mern_crud",
   "version": "1.0.0",
   "description": "Learning CRUD Operation on MongoDB",
   "main": "main.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon main.js"
+    "dev": "node main.js"
   },
-  "author": "Dhvanil Pansuriya",
+  "author": "Jeanish Verma",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.2",
